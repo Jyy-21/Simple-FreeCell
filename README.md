@@ -1,2 +1,2 @@
 # Simple-FreeCell
-A simple Solitte game
+A simple Solitaire game
